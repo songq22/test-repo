@@ -1,6 +1,6 @@
 test-repo
 =========
 
-This is a test re
+This is a test repo.
 
-we are the friend
+
